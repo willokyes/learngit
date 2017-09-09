@@ -15,4 +15,6 @@ willokyessss
 Creating a new branch is quick
 Devtwotwotwo
 devthreethree
-Creating a new branch is quick & simple.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+
