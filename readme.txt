@@ -4,7 +4,7 @@ yes
 Git has a mutable index called stage.
 Git tracks changes of files.
 one
-two
+two - test bug, test bug
 three
 four
 five
@@ -18,3 +18,5 @@ devthreethree
 Creating a new branch is quick and simple.
 Dev0910
 Dev09101827
+Test bug
+Test bug
